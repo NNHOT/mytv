@@ -370,6 +370,7 @@ U影厅,http://103.140.229.13/BOBO/bibi.php?id=22449693
 松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 彩虹e台,P2p://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹电影台,P2p://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
+IBIZA1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 
 
 音乐频道,#genre#
